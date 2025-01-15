@@ -1,0 +1,10 @@
+Explain why a number data type added to a string data type returns a string.
+
+
+Name a scenario where using the == operator could cause a bug.
+
+
+Name the operator(s) that you find confusing and explain why.
+
+
+Explain a situation where you would use the Modulus operator and why.
