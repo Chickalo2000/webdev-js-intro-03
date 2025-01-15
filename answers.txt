@@ -1,10 +1,19 @@
 Explain why a number data type added to a string data type returns a string.
 
+    This is because the number data type is coerced into a string data type and then the two string data types are concantenated.
 
 Name a scenario where using the == operator could cause a bug.
 
+    let num = 5;
+    let str = "5"
+    let isEqual = (num ==str)
+    console.log(isEqual)
+        
 
 Name the operator(s) that you find confusing and explain why.
 
+    The modulus because there are multiple ways to use it.
 
 Explain a situation where you would use the Modulus operator and why.
+
+    Conditional logic and decision making.  You can use it to apply logic to odd or even items.
